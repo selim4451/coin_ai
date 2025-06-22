@@ -1,0 +1,17 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = false
+max_line_length = 120
+tab_width = 4
+
+[{*.yaml,*.yml}]
+indent_size = 2
+
+[APP]
+api_key="bxOQuCRuslZjoNGQmiK7IRYIwce0l3cy65s0FJveSqrNPQUdJUOU82q6Nj3cZKH9"
+api_secret="OlOwWFW9i2l3mbUxAchNH7h9jUTOWhaHB6BS7uRjB7OJpMecfaFlH00nVs0mnvxk"
